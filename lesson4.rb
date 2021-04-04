@@ -1,0 +1,2 @@
+name = "コレナガユウキ"
+puts name
